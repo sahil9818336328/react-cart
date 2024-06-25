@@ -1,0 +1,7 @@
+- cart project
+- use reducer and context api for state management
+- data fetching with loading indicator
+- replaced array with Map data structure for displaying items
+- increase/decrease amount, remove amount,
+- function for calculating total cost and amount (avoid useEffect)
+- react icons
